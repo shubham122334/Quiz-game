@@ -1,0 +1,29 @@
+{ "Md":[
+    {
+    "opt":"Which Bank appointed Charanjit Attra as CFO?",
+    "arr":["SBI","PNB","ICICI" ,"HDFC"],
+    "ans":"ans1"
+},
+
+{
+    "opt":"Which Bank appointed Charanjit Attra as CFO?",
+    "arr":["1850s","1880s","1930s","1950s"],
+    "ans":"ans2"
+    },
+{
+    "opt":"Lux is the SI unit of",
+    "arr":["intensity of illumination","luminous efficiency,","luminous flux","luminous intensit"],
+    "ans":"ans1"
+},
+{
+    "opt":"Dr. Zakir Hussain was",
+    "arr":["first vice president of India","first president of Indian National Congress","first speaker of Lok Sabha","he first Muslim president of India"],
+    "ans":"ans4"
+},
+{
+    "opt":"Where did Indian Navy helicopters undertake aerial seeding initiative?",
+    "arr":[	"Chennai","Odisha","Visakhapatnam","New Delhi"],
+    "ans":"ans3"
+}
+]
+}

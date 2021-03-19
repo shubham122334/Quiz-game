@@ -1,0 +1,28 @@
+{"Hard":[{
+    "opt":"India has surpassed which country to become the fourth largest foreign-exchange reserves in the world?",
+    "arr":["Russia","UAE","Japan","France"],
+    "ans":"ans1"
+},
+
+{
+    "opt":"G-15 is an economic grouping of",
+    "arr":["First World Nations","Second World Nations","Third World Nations","Fourth World Nations"],
+    "ans":"ans3"
+},
+{
+    "opt":"Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
+    "arr":["Two","Three","Four" ,"Eight"],
+    "ans":"ans3"
+},
+{
+    "opt":"Who was the first Indian to win the World Amateur Billiards title?",
+    "arr":["Geet Sethi","Wilson Jones","Michael Ferreira","Manoj Kothari"],
+    "ans":"ans2"
+},
+{
+    "opt":"Hitler party which came into power in 1933 is known as",
+    "arr":[	"Labour Party","Nazi Party","Ku-Klux-Klan","Democratic Party"],
+    "ans":"ans2"
+}
+]
+}

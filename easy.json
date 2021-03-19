@@ -1,0 +1,29 @@
+{"easy": [
+    {
+        "opt":"Which state launched livelihood generation portal for returned migrant workers ? ",
+        "arr":["Assam","Nagaland","Punjab","Haryana"],
+        "ans":"ans2"
+    },
+    {
+        "opt":"Who is the brand ambassador of Vedantu?",
+        "arr":["Shah Rukh Khan","Salman Khan","Aamir Khan" ,"Saif Ali Khan"],
+        "ans":"ans3"
+    },
+    {
+        "opt":"What is the name of ISRO’s new humanoid robot that will go to space next?",
+        "arr":["Surenav iv","C-Astra" ,"Ballie","Vyommitra"],
+        "ans":"ans4"
+    },
+    {
+        "opt":"Which Indian Cricketer was recently given the ‘Padma Vibushan’ award?",
+        "arr":["Sachin Tendulkar","M.s Dhoni","V kohli" ,"Saurabh ganguli"],
+        "ans":"ans1"
+    },
+    {
+        "opt":"The first metal used by man was",
+        "arr":["Iron","Copper","Gold" ,"Bronze"],
+        "ans":"ans2"
+    }
+    
+]   
+}
